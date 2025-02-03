@@ -9,6 +9,17 @@ The **SSCF Resource Hub** is a centralized platform designed to help **Saskatche
 - **Facilitate webinars & events** to support networking and knowledge sharing.
 - **Ensure an intuitive user experience** using an **Agile & Design Thinking approach**.
 
+## Project Constraints
+- **Technology Stack: StoriesOnBoard, Figma, WordPress, Local by Flywheel, GitHub**
+- **Design Approach: Design Thinking (Agile), Fast Feedback**
+- **License: Creative Commons (CC BY-SA 4.0)**
+- **Target Audience: Saskatchewan Charities, Non-profits**
+- **Content: HR, Financials, Tech/Security, Fundraising, Granting, Storytelling, Marketing, Bylaws**
+- **Key Features: Grant access, tools for grant writing, event opportunities (webinars, seminars)**
+- **VSCN Access: Early registration, additional resources, collaboration opportunities**
+- **Credibility: Local, accessible, relevant content**
+- **Usability: User-friendly, easy navigation, accessibility**
+
 ## Low-Fi Prototyping & Brainstorming
 This repository is focused on **early-stage design concepts**, including:
 - **Wireframes & Mockups** using **Figma & StoriesOnBoard**.
