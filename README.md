@@ -35,6 +35,12 @@ We welcome contributions! If you’d like to collaborate:
 3. Submit a pull request with a clear description of your changes.
 4. Provide feedback on existing issues and prototypes.
 
+## Team
+1. **Oluchukwu Ogana**
+2. **Luka Dundjerovic**
+3. **Ebelechukwu Azu-Okonkwo**
+4. **Fairuz Nawar**
+
 ## License
 This project is licensed under **Creative Commons (CC BY-SA 4.0)**, allowing for sharing and adaptation with proper attribution.
 
