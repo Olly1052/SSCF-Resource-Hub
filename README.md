@@ -52,7 +52,4 @@ We welcome contributions! If you’d like to collaborate:
 3. **Ebelechukwu Azu-Okonkwo**
 4. **Fairuz Nawar**
 
-## License
-This project is licensed under **Creative Commons (CC BY-SA 4.0)**, allowing for sharing and adaptation with proper attribution.
-
 🚀 **Join us in building a valuable resource for Saskatchewan’s non-profits!**
